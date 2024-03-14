@@ -1,0 +1,94 @@
+{
+  "allVideos": [
+    {
+      "caption": "Interstellar-Trailer",
+      "url": "https://www.youtube.com/embed/LY19rHKAaAg?si=dl2FrwfoDZdPb_OB&autoplay=1",
+      "image": "https://image.tmdb.org/t/p/original/yUa0iCocBPsGJ79BwrshHqz45Qc.jpg",
+      "id": 11
+    },
+    {
+      "caption": "Bramayugam Trailer",
+      "url": "https://www.youtube.com/embed/SfsWWXQK8pg?si=dl2FrwfoDZdPb_OB&autoplay=1",
+      "image": "https://tse1.mm.bing.net/th?id=OIP.7YwyN-Jw6oL36X3K0ETM0QHaEc&pid=Api&P=0&h=180",
+      "id": 13
+    },
+    {
+      "caption": "Premalu-Trailer",
+      "url": "https://www.youtube.com/embed/rR_2ti4l3nM?si=dl2FrwfoDZdPb_OB&autoplay=1",
+      "image": "https://tse2.mm.bing.net/th?id=OIP.yItqSb9suZ4XaXN4C_2G0QHaEK&pid=Api&P=0&h=180",
+      "id": 14
+    }
+  ],
+  "categories": [
+    {
+      "name": "Trailers",
+      "videos": [
+        {
+          "caption": "Manjummel Boys-Trailer",
+          "url": "https://www.youtube.com/embed/id848Ww1YLo?si=dl2FrwfoDZdPb_OB&autoplay=1",
+          "image": "https://tse4.mm.bing.net/th?id=OIF.Ct63si%2fn2m39%2fyCW%2bJMA7Q&pid=Api&P=0&h=180",
+          "id": 8
+        },
+        {
+          "caption": "Pride And Prejudice -Trailer",
+          "url": "https://www.youtube.com/embed/1dYv5u6v55Y?si=dl2FrwfoDZdPb_OB&autoplay=1",
+          "image": "https://tse2.mm.bing.net/th?id=OIP.qGgyYrGf5hMl6yImWw8hZQHaEK&pid=Api&P=0&h=180",
+          "id": 10
+        },
+        {
+          "caption": "Interstellar-Trailer",
+          "url": "https://www.youtube.com/embed/LY19rHKAaAg?si=dl2FrwfoDZdPb_OB&autoplay=1",
+          "image": "https://image.tmdb.org/t/p/original/yUa0iCocBPsGJ79BwrshHqz45Qc.jpg",
+          "id": 11
+        },
+        {
+          "caption": "Inception-Trailer",
+          "url": "https://www.youtube.com/embed/YoHD9XEInc0?si=dl2FrwfoDZdPb_OB&autoplay=1",
+          "image": "https://tse1.mm.bing.net/th?id=OIP.t5Q1d9fdhXYn38IrNyWHIAHaEo&pid=Api&P=0&h=180",
+          "id": 12
+        },
+        {
+          "caption": "Bramayugam Trailer",
+          "url": "https://www.youtube.com/embed/SfsWWXQK8pg?si=dl2FrwfoDZdPb_OB&autoplay=1",
+          "image": "https://tse1.mm.bing.net/th?id=OIP.7YwyN-Jw6oL36X3K0ETM0QHaEc&pid=Api&P=0&h=180",
+          "id": 13
+        },
+        {
+          "caption": "Premalu-Trailer",
+          "url": "https://www.youtube.com/embed/rR_2ti4l3nM?si=dl2FrwfoDZdPb_OB&autoplay=1",
+          "image": "https://tse2.mm.bing.net/th?id=OIP.yItqSb9suZ4XaXN4C_2G0QHaEK&pid=Api&P=0&h=180",
+          "id": 14
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "Movies",
+      "videos": [],
+      "id": 3
+    },
+    {
+      "name": "Music",
+      "videos": [],
+      "id": 4
+    },
+    {
+      "name": "Tutorials",
+      "videos": [],
+      "id": 5
+    },
+    {
+      "name": "Documentries",
+      "videos": [],
+      "id": 6
+    }
+  ],
+  "history": [
+    {
+      "caption": "Pride And Prejudice -Trailer",
+      "url": "https://www.youtube.com/embed/1dYv5u6v55Y?si=dl2FrwfoDZdPb_OB&autoplay=1",
+      "datetime": "2024-03-12T05:44:24.399Z",
+      "id": 2
+    }
+  ]
+}
